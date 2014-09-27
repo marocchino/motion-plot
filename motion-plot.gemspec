@@ -18,6 +18,6 @@ Gem::Specification.new do |gem|
   gem.version       = MotionPlot::VERSION
 
   gem.add_dependency "bubble-wrap"
-  gem.add_dependency 'motion-cocoapods', '>= 1.2.1'
+  gem.add_dependency 'motion-cocoapods'
   gem.add_development_dependency 'rake'
 end
